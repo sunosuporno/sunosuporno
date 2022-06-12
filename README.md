@@ -5,7 +5,7 @@
 
 - 🏢 I am a undergraduate student at MAKAUT, WB, India, studying Information Technology.
 - 👨‍💻 I am a full-stack developer (MEVN) with knowledge in Solidity, Truffle and web3.js
-- 🤓 I am currently learning UI/UX and Python
+- 🤓 I am currently learning UI/UX designing and Python
 - ☕️ I am always open to have a chat with poeple curious around web3/tech/startups
 - 🛠 Currently I am building a platform to help crypto freelancers to get paid and not lose their hair while doing so.
 - 🏎 I am a passionate Scuderia Ferrari fan and also enjoy UFC sometimes.
