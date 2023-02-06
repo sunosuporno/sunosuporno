@@ -4,7 +4,7 @@
 ## I'm a Student, DAO Contributor and web3 Enthusiast!!
 
 - 🏢 I am a undergraduate student at MAKAUT, WB, India, studying Information Technology.
-- 👨‍💻 I am a full-stack developer (MEVN) with knowledge in Solidity, Truffle and web3.js
+- 👨‍💻 I am a full-stack developer (MEVN) with knowledge in Solidity, Truffle, Hardhat, ethers and web3.js
 - 🤓 I am currently learning UI/UX designing and Python
 - ☕️ I am always open to have a chat with poeple curious around web3/tech/startups
 - 🏎 I am a passionate Scuderia Ferrari fan and also enjoy UFC sometimes.
