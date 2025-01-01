@@ -1,13 +1,14 @@
 # Hi there, I'm Suporno. Gm 👋 
 
 
-## I'm a Student, DAO Contributor and web3 Enthusiast!!
+## I'm a smart contract dev with an interest in AI
 
-- 🏢 I am a undergraduate student at MAKAUT, WB, India, studying Information Technology.
-- 👨‍💻 I am a full-stack developer (MEVN) with knowledge in Solidity, Truffle, Hardhat, ethers and web3.js
-- 🤓 I am currently learning UI/UX designing and Python
-- ☕️ I am always open to have a chat with poeple curious around web3/tech/startups
-- 🏎 I am a passionate Scuderia Ferrari fan and also enjoy UFC sometimes.
+- 🏙️ I am based in Kolkata, India.
+- 🛠️ I am building [Yieldhive](https://yieldhive.xyz) - the place with the best collection of DeFi strategies and Midas an agent which can do complex DeFi specific tasks 
+- 👨‍💻 I am a smart contract developer but also do things in other parts of the web3 stack.
+- ☕️ I am always open to have a chat with poeple curious around web3/tech/startups!
+
+- 
 
 ### Connect with me:
 
