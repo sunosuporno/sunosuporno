@@ -8,7 +8,6 @@
 - 👨‍💻 I am a smart contract developer but also do things in other parts of the web3 stack.
 - ☕️ I am always open to have a chat with poeple curious around web3/tech/startups!
 
-- 
 
 ### Connect with me:
 
