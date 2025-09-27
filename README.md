@@ -6,7 +6,7 @@
 - 🏙️ I am based in Kolkata, India.
 - 👨‍💻 I am a smart contract developer but also do things in other parts of the web3 stack.
 - ☕️ I am always open to have a chat with people curious around crypto/tech/startups!
-- 🛠️ I am currently tinkering with project on the intersection of AI/Crypto, and automated trading bots
+- 🛠️ I am currently tinkering with ideas on the intersection of AI/Crypto, and automated trading bots
 
 
 ### Connect with me:
