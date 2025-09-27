@@ -1,7 +1,7 @@
 # Hi there, I'm Suporno. Gm 👋 
 
 
-## I'm a smart contract dev with an interest in AI
+## I'm a smart contract dev with interest in AI
 
 - 🏙️ I am based in Kolkata, India.
 - 👨‍💻 I am a smart contract developer but also do things in other parts of the web3 stack.
