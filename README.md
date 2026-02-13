@@ -1,12 +1,12 @@
 # Hi there, I'm Suporno. Gm 👋 
 
 
-## I'm a smart contract dev with interest in AI
+## I'm a smart contract engineer with an interest in AI and DeFi systems.
 
 - 🏙️ I am based in Kolkata, India.
-- 👨‍💻 I am a smart contract developer but also do things in other parts of the web3 stack.
+- 👨‍💻 I build across the Web3 stack — from smart contracts to backend systems and client applications.
 - ☕️ I am always open to have a chat with people curious around crypto/tech/startups!
-- 🛠️ I am currently tinkering with ideas on the intersection of AI/Crypto, and automated trading bots
+- 🛠️ Currently exploring the intersection of AI, crypto, and automated trading systems.
 
 
 ### Connect with me:
@@ -16,9 +16,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sunosuporno#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sunosuporno#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sunosprno#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sunosprno#gh-dark-mode-only)
 
 ### Languages and Tools:
 
